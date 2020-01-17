@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "969128544382",
+    "firebase_url": "https://crashtest-bee35.firebaseio.com",
+    "project_id": "crashtest-bee35",
+    "storage_bucket": "crashtest-bee35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969128544382:android:54b22ea2f552be7b26702f",
+        "android_client_info": {
+          "package_name": "allanksr.crashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969128544382-7oo250m6pk1gn071183g81bbv2i4vc6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbAFkMjGRQL_Q8FyygJlBlD2dEkHWqVRo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969128544382-7oo250m6pk1gn071183g81bbv2i4vc6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
